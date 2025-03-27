@@ -87,7 +87,7 @@ const About: React.FC = () => {
             
             <div className="space-y-4 text-foreground/80">
               <p>
-              Enjoy a classic game of chess anytime, anywhere with ChessMate, a simple and lightweight offline chess game. Play against the AI with different difficulty levels, improve your strategy, and sharpen your skills without needing an internet connection. Perfect for both beginners and experienced players! 
+              I’m a passionate developer constantly working on new projects and expanding my skills. My first completed project, ChessMate, is a simple and lightweight offline chess game where players can challenge AI opponents with varying difficulty levels. It’s designed to help users improve their strategy without needing an internet connection.
               </p>
               <p>
               Right now, my projects are still in development, but I'm always ready to take on new opportunities. My first completed project is a small offline chess game, and many more are on the way! I'm eager to learn, grow, and collaborate on exciting projects. If you're looking for someone who’s ready to take on challenges, let's connect!

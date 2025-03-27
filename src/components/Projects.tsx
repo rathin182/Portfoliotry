@@ -26,7 +26,7 @@ const projects: Project[] = [
     title: "Secure Signup and Login Web App with Next.js",
     description: "This is a secure and modern authentication web application built with Next.js (App Router). It features a seamless signup and login system with JWT-based authentication and bcrypt for password hashing. The app ensures user data protection while providing a smooth user experience.",
     image: "./public/authentication.png",
-    technologies: ["React", "Socket.IO", "Express", "MongoDB"],
+    technologies: ["Nextjs", "JWT", "bcrypt", "MongoDB"],
     githubUrl: "https://github.com/rathin182/Authentication",
     liveUrl: "https://authenticationa.netlify.app/"
   },
@@ -34,7 +34,7 @@ const projects: Project[] = [
     title: "ChessMate: Offline Chess Game",
     description: "Enjoy a classic game of chess anytime, anywhere with ChessMate, a simple and lightweight offline chess game. Play against the AI with different difficulty levels, improve your strategy, and sharpen your skills without needing an internet connection. Perfect for both beginners and experienced players!",
     image: "./public/chess.png",
-    technologies: ["React", "TypeScript", "Tailwind CSS"],
+    technologies: ["React", "javaScript", "Tailwind CSS"],
     githubUrl: "https://github.com/rathin182",
     liveUrl: "https://visionary-crisp-ae54a2.netlify.app/"
   }
