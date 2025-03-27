@@ -23,15 +23,15 @@ const projects: Project[] = [
   //   liveUrl: "https://netlify.com"
   // },
   {
-    title: "Real-Time Chat Application",
-    description: "A modern messaging app with real-time communication capabilities, user presence indicators, and file sharing.",
+    title: "Secure Signup and Login Web App with Next.js",
+    description: "This is a secure and modern authentication web application built with Next.js (App Router). It features a seamless signup and login system with JWT-based authentication and bcrypt for password hashing. The app ensures user data protection while providing a smooth user experience.",
     image: "./public/authentication.png",
     technologies: ["React", "Socket.IO", "Express", "MongoDB"],
     githubUrl: "https://github.com/rathin182/Authentication",
     liveUrl: "https://authenticationa.netlify.app/"
   },
   {
-    title: "Task Management Dashboard",
+    title: "ChessMate: Offline Chess Game",
     description: "Enjoy a classic game of chess anytime, anywhere with ChessMate, a simple and lightweight offline chess game. Play against the AI with different difficulty levels, improve your strategy, and sharpen your skills without needing an internet connection. Perfect for both beginners and experienced players!",
     image: "./public/chess.png",
     technologies: ["React", "TypeScript", "Tailwind CSS"],
